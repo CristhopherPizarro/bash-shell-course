@@ -45,8 +45,6 @@ $ chmod +x <nombre-del-archivo>
 
 ## Fuentes
 
-[Perfil](https://platzi.com/p/juanma0109/)
-</br>
 Estas notas fueron tomadas gracias al siguiente curso [Programación en Bash-Shell](https://platzi.com/cursos/bash-shell/)
 
 ## Tecnologías Utilizadas 🛠️
