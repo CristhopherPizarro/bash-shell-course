@@ -52,4 +52,4 @@ Estas notas fueron tomadas gracias al siguiente curso [Programación en Bash-She
 [![Ubuntu 22.04.1](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 
-by [Juanma]{https://github.com/juanma010901)
+by [Juanma](https://github.com/juanma010901)
